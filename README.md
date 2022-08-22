@@ -24,4 +24,74 @@ In the Injury column I followed the same path as in the previous one. Non-fatal 
 
 Since the Injury column now doesn’t have null values and provides a lot of information on the next column – Fatal (Y/N)- the cleaning process was a lot easier. I compared the two columns to see if the injuries sustained were fatal or not and in the case of drowning and questionable, I decided to insert them as UNKNOWN.
 
-At  the end some graphs and percentages were calculated and shown in a pptx file. If interested on the results please check the presentation.
+## Findings:
+
+1. 81.1% of injuries were non-fatal, 13.64% resulted on death and on 5.26% we have no information.
+
+2. In order of most to least common injuries:
+
+laceration
+no injury          
+fatal              
+leg bitten         
+foot bitten        
+other              
+minor injury       
+hand bitten        
+puncture wound     
+arm bitten         
+drowning           
+questionable        
+thigh bitten        
+calf bitten         
+ankle bitten        
+survived            
+shoulder bitten     
+fingers bitten      
+knee bitten         
+torso bitten        
+head bitten         
+wrist bitten        
+buttocks bitten
+
+3. According to the type of attack 64.96% were unprovoked attacks, 14.53% was invalid data 11.89 were provoked attacks, 7.19% attacks during boating and 0.96% were attacks during sea disasters
+
+4. According to the species of sharks producing these attacks in order of most to least likely they were:
+
+shark (exact species not identified)               
+white shark           
+questionable          
+tiger shark           
+bull shark            
+invalid               
+blacktip shark         
+bronze whaler          
+nurse shark            
+blue shark             
+mako shark             
+wobbegong shark        
+hammerhead shark       
+raggedtooth shark      
+grey nurse shark       
+lemon shark            
+zambesi shark          
+sand shark             
+spinner shark          
+sevengill shark        
+dusky shark            
+dogfish shark          
+copper shark            
+galapagos shark         
+basking shark           
+porbeagle shark         
+angel shark             
+silky shark             
+gill shark              
+carpet shark            
+goblin shark            
+salmon shark            
+leopard shark           
+silvertip shark       
+whale shark 
+
+
